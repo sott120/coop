@@ -1,7 +1,7 @@
-import logo from "./logo.svg";
 import "./App.css";
-import Sungtt from "./sungtt";
+import logo from "./logo.svg";
 import Sott from "./Sott";
+import Sungtt from "./sungtt";
 
 function App() {
     return (
@@ -20,7 +20,7 @@ function App() {
                     Learn React
                 </a>
             </header>
-            <Sungtt />
+            <Sungtt data={"프롭스좀 보내겠습니다."} />
             <Sott />
             <p>sott branch에서 작성한 내용입니다.</p>
         </div>
