@@ -1,3 +1,8 @@
 export default function Sungtt() {
-  return <p>성트가 만든 컴포넌트</p>;
+  return (
+    <>
+      <p>성트가 만든 컴포넌트</p>
+      <p>성트의 첫 브랜치, 작업물이 겹치지않음</p>
+    </>
+  );
 }
