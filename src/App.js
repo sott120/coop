@@ -22,6 +22,8 @@ function App() {
       </header>
       <Sungtt data={"프롭스좀 보내겠습니다."} />
       <Sungtt data={"프롭스좀 보내겠습니다."} />
+      <Sungtt data={"프롭스좀 보내겠습니다."} />
+      <Sungtt data={"프롭스좀 보내겠습니다."} />
       <Sott />
       <p>sott branch에서 작성한 내용입니다.</p>
     </div>
