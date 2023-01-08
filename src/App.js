@@ -22,6 +22,7 @@ function App() {
             </header>
             <Sungtt />
             <Sott />
+            <p>sott branch에서 작성한 내용입니다.</p>
         </div>
     );
 }
