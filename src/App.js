@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import Sungtt from "./sungtt";
 import Sott from "./Sott";
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
                     Learn React
                 </a>
             </header>
+            <Sungtt />
             <Sott />
         </div>
     );
